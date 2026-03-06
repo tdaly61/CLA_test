@@ -12,7 +12,7 @@ Previously we relied on our PR reviewers checking that a CLA had been signed.  T
 
 Once you have signed our Contributor Licence Agreement at: https://mifos.org/about-us/financial-legal/mifos-contributor-agreement
 
-You will receive a request in Github to join our organisation as a member.
+Once it has been verified you will receive a request in Github to join our organisation as a member.
 
 Once you have accepted this request you will be able to raise PRs.
 
